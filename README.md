@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhanushree
 
-<!--
-**dhanu-bv/dhanu-bv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+MCA Student | Aspiring Data Scientist | Specializing in AI & ML | Building data-driven solutions and scalable projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, PHP, JavaScript  
+- **Web Development:** HTML5, CSS3, PHP  
+- **Databases:** PostgreSQL, SQLite  
+- **Tools & Platforms:** Git, GitHub, VS Code, Heroku, Railway, Vercel  
+- **Other Skills:** Data Analysis, Automation, API Integration, Serverless Deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Key Projects
+- **[Hybrid Movie Analysis](https://github.com/dhanu-bv/hybrid-movie-analysis)** – Hybrid system combining APIs and raw movie data for analysis and visualization.
+- 
+## 📈 GitHub Stats
+![Dhanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanu-bv&show_icons=true&count_private=true&theme=tokyonight)  
+
+## 📬 Contact
+- **LinkedIn:** https://www.linkedin.com/in/dhanushree-b-v-9041a9226.  
+- **Email:** dhanubv592003@gmail.com  
+
+---
+
