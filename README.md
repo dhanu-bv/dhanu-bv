@@ -11,7 +11,8 @@ MCA Student | Aspiring Data Scientist | Specializing in AI & ML | Building data-
 - **Other Skills:** Data Analysis, Automation, API Integration, Serverless Deployment  
 
 ## 📂 Key Projects
-- **[Hybrid Movie Analysis](https://github.com/dhanu-bv/hybrid-movie-analysis)** – Hybrid system combining APIs and raw movie data for analysis and visualization.
+1. **Hybrid Movie Analysis** – Hybrid system combining APIs and raw movie data for analysis and visualization.  
+2. **AI Assistant (Synapse)** – Voice-enabled AI assistant integrating Google Gemini API, Firebase, and Web Speech API for real-time voice recognition, smart responses, and text-to-speech interaction.
   
 ## 📈 GitHub Stats
 ![Dhanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanu-bv&show_icons=true&count_private=true&theme=tokyonight)  
