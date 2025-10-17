@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[link-to-your-banner-image.png]" alt="Dhanushree B V - Aspiring Data Scientist Banner">
+  <img src="https://raw.githubusercontent.com/dhanu-bv/dhanu-bv/main/github-header-banner.png" alt="Dhanushree B V - Aspiring Data Scientist Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm Dhanushree B V</h1>
